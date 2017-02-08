@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IOC", "IOC\IOC\IOC.csproj",
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "IOC", "IOC", "{E4CE5CD7-BA00-4AF5-A019-E06B5480E276}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Log4net", "Log4net\Log4net.csproj", "{00C63FE3-C98C-4D5A-AD98-AC8A7E15893C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{DD476531-80D9-4504-ABD1-6FA12954449D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DD476531-80D9-4504-ABD1-6FA12954449D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DD476531-80D9-4504-ABD1-6FA12954449D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00C63FE3-C98C-4D5A-AD98-AC8A7E15893C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00C63FE3-C98C-4D5A-AD98-AC8A7E15893C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00C63FE3-C98C-4D5A-AD98-AC8A7E15893C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00C63FE3-C98C-4D5A-AD98-AC8A7E15893C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
